@@ -1,4 +1,4 @@
-                  Tugas Mata Kuliah Pemrograman Terstruktur mencari kata dalam sebuah baris dan kolom (Find Words)
+      Tugas Mata Kuliah Pemrograman Terstruktur mencari kata dalam sebuah baris dan kolom (Find Words)
                   
 **A. Tujuan Tugas**
 
