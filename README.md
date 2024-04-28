@@ -1,5 +1,14 @@
       Tugas Mata Kuliah Pemrograman Terstruktur mencari kata dalam sebuah baris dan kolom (Find Words)
-                  
+
+**Oleh**
+
+*AHMAD FIKRI HANIF	  :    NPM 2317051061*
+
+*CLARA MONICA        :    NPM 2317051055*
+
+*SAMUEL ANANTA S.	  :   NPM 2317051089*
+
+
 **A. Tujuan Tugas**
 
 Tugas ini bertujuan untuk mengembangkan sebuah program dalam Bahasa C++ yang mampu mencari keberadaan beberapa kata dalam sebuah matriks karakter. 
